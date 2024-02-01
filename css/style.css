@@ -28,6 +28,7 @@ main {
     text-align: center;
     background-color: #f7f7f7;
     margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 #signup h2 {
@@ -56,7 +57,7 @@ input {
 }
 
 button {
-    background-color: #6e1616;
+    background-color: #8b2222;
     color: #fff;
     border: none;
     padding: 10px 20px;
